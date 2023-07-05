@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Earl Grey
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Tobias
+    family-names: Baril
+    email: toby.baril@icloud.com
+    affiliation: Université de Neuchâtel
+    orcid: 'https://orcid.org/0000-0002-5936-7531'
+  - given-names: James
+    family-names: Galbraith
+    affiliation: University of Exeter
+    orcid: 'https://orcid.org/0000-0002-1871-2108'
+  - given-names: Alex
+    family-names: Hayward
+    affiliation: University of Exeter
+    orcid: 'https://orcid.org/0000-0001-7413-718X'
